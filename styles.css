@@ -1,2 +1,16 @@
+p{
+	width:300px; 
+	border:1px solid black;
+	
+}
+#middlebox{
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+}
 
+#outerbox{
+	border:1px solid black;
+	padding:20px;
+}
 /* Your CSS Code here. */
